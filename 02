@@ -1,0 +1,20 @@
+02
+Date: 2020.04.02
+Title: Hopping-Pong: Changing Trajectory of Moving Object Using Computational Ultrasound Force
+Author: Tao Morisaki, Ryoma Mori, Ryosuke Mori, Yasutoshi Makino, Yuta Itoh, Yuji Yamakawa, Hiroyuki Shinoda
+Publish: ISS2019 Proceeding
+・どんなもの？
+超音波を使って、動いているピンポン球の軌跡をかえることができた。
+・先行研究と比べてどこがすごい？
+これまでの先行研究では、静的なオブジェクトを外部から動かす、ということに焦点を当てていた。今回は動的オブジェクトを外部から動かすことが可能。
+そうすると現実世界のスペースの拡張が可能。
+・技術手法のキモは？
+高速3次元計測
+高空間解像度と高フレームレートの外部からの非接触力提示
+高速計算と高フレームレートの力提示を同時に保つこと
+軌跡を変えられるほどの大きさの力提示
+→そこでHopping Pongというシステムを作成（範囲：1cm^2×3cm　フレームレート：1kHz）
+・どうやって有効だと検証した？
+デプスカメラKinect V2をつかって計測したところ、平均で直径2cmのピンポン球の軌跡を334mm変化可能なことがわかった。
+・議論はある？
+Augmented Sportsなどで使えると嬉しい。
