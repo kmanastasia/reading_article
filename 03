@@ -1,0 +1,20 @@
+03
+Date: 2020.04.04
+Title: Using 3D Hand Gestures and Touch Input for Wearable AR Interaction
+Author: Huidong Bai, Gun A. Lee, Mark Nathan Billinghurst
+Publish: CHI2014 Proceeding
+・どんなもの？
+ハンズフリーの自然なジェスチャーを入力としたARインタラクション、他の一般的な入力方法（タッチ入力）との統合を試みたシステム
+・先行研究と比べてどこがすごい？
+ジェスチャー入力ができるインタフェースはあったものの、フルハンドのジェスチャーを入力にしたARインタフェースはなかった。
+・技術手法のキモは？
+3つを統合
+  ・Google glass
+  ・Three Gear Systemハンドラッキング
+  ・Vuforia ARトラッキング
+  ・Allyjon無線通信
+・どうやって有効だと検証した？
+3つの入力（タッチパッド、ARシステムハンドジェスチャー、ARシステムハンドジェスチャー＋タッチパッド）で動くVR物体をつかまえてもらう。
+ユーザパフォーマンスとリッカーとスケールでの回答。
+ハンドジェスチャーのみがよさそうだった。
+・議論はある？
